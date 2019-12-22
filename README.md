@@ -1,2 +1,2 @@
 # SciViz
-Notes and Info of Communicating Science and Data
+Notes and Info on Communicating Science and Data
